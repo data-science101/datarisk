@@ -11,5 +11,5 @@ Estrutura:
       <li>4 - Modeling</li>
     </ul>
   <li><b>model:</b> Pasta com arquivo Pickle do melhor modelo</li>
-  </li><b>Datarisk-Profiling.html:</b> HTML gerado após realização de profiling no dataset processed_train.csv</li>
+  <li><b>Datarisk-Profiling.html:</b> HTML gerado após realização de profiling no dataset processed_train.csv</li>
 </ul>
